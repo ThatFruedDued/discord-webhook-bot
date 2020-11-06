@@ -1,1 +1,1 @@
-load("html/setup.html");
+window.onload = () => {load("html/setup.html");};
